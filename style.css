@@ -131,7 +131,7 @@ a {
   text-decoration: none;
   display: block ;
   width: 100%;
-  padding: 12px 20px;
+  padding: 12px 50px;
 }
 
 /* collapsed desktop */
@@ -416,3 +416,4 @@ table th {
 @media (max-width:900px) {
   .submenu li a { padding: 10px 24px; }
 }
+
